@@ -1,5 +1,5 @@
 # Catagram
-bijo
+bijo /p
 New updates
 ********
 
