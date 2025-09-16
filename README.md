@@ -3,4 +3,6 @@ bijo
 New updates
 ********
 
+thanks
+
 
